@@ -13,7 +13,7 @@ Dependencies of the core modules are listed in requirement.txt.
 ```
 git clone git@github.com:hengyicai/AdaND.git /path/to/AdaND
 cd /path/to/AdaND; python setup.py develop
-echo "export PARLAI_HOME=/path/to/AdaND" >> ~/.bashrc
+echo "export PARLAI_HOME=/path/to/AdaND" >> ~/.bashrc; source ~/.bashrc
 ```
 
 ## Running
