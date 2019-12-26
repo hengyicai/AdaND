@@ -21,6 +21,6 @@ echo "export PARLAI_HOME=/path/to/AdaND" >> ~/.bashrc
 ```
 cd /path/to/AdaND/data
 tar -xzvf adand_data.tar.gz
-cd -
+cd /path/to/AdaND
 python projects/AdaND/train_AdaND.py
 ```
