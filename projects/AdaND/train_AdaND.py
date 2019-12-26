@@ -66,9 +66,7 @@ if __name__ == '__main__':
         rnn_class='context_topic_adaptive_lstm',
         lookuptable='unique',
         optimizer='adam',
-        embedding_type=os.path.join(
-            PARLAI_HOME, 'data/adand_data/eval_embedding.vec'
-        ),
+        embedding_type='glove',
         momentum=0.9,
         bidirectional=True,
         numsoftmax=1,
