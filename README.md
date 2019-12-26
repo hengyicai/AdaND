@@ -1,5 +1,5 @@
 # AdaND
-Codebase for the EMNLP19 paper "Adaptive Parameterization for Neural Dialogue Generation".
+Codebase for the EMNLP19 paper "[Adaptive Parameterization for Neural Dialogue Generation](https://www.aclweb.org/anthology/D19-1188/)".
 
 This codebase is built upon the [ParlAI](https://parl.ai/) project. Check `parlai/agents/AdaND` for our model implementations.
 
