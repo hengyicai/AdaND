@@ -3,6 +3,11 @@ Codebase for the EMNLP19 paper "[Adaptive Parameterization for Neural Dialogue G
 
 This codebase is built upon the [ParlAI](https://parl.ai/) project. Check `parlai/agents/AdaND` for our model implementations.
 
+## Framework Overview
+
+<p align="center">
+<img src="https://github.com/hengyicai/AdaND/blob/master/AdaModelArc-Part1.png" alt="Framework Overview" width="700"/>
+</p>
 
 ## Requirements
 - Python3
