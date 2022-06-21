@@ -10,7 +10,7 @@ GitPython==3.0.3
 h5py==2.10.0
 joblib==0.14.0
 nltk==3.4.5
-numpy==1.17.2
+numpy==1.22.0
 pexpect==4.7.0
 Pillow==6.2.0
 pre-commit==1.18.3
